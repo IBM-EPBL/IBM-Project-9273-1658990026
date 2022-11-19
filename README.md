@@ -9,6 +9,8 @@ Team ID: PNT2022TMID05403
 Team Lead: Abdul Ajeesh M
 
 Team Member: Arun Kumar B, Boobesh Prasath A, Jayankumar p
+ 
+ Demo link : https://drive.google.com/file/d/1ubAE83F2q_KuBnThh2KJtmGzSfUaf09V/view?usp=drivesdk
 
 Industry Mentor Name: Sri Tulasi
 
